@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> </p>
 
-[![What's up](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Adroitly Designed](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+![Static Badge](https://img.shields.io/badge/Adroitly%20Crafted)
+
 
 
 <h3 align="left">Connect with me:</h3>
