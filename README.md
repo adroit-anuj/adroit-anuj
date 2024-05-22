@@ -2,6 +2,7 @@
 <h3 align="center">Student at IIT Guwahati</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> </p>
+<p align="left"> <img src="https://badgen.net/#static/Never%20Mind/What's%20Up/pink" alt="adroit-anuj"/></p>p
 
 
 <h3 align="left">Connect with me:</h3>
