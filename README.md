@@ -16,6 +16,7 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adroit-anuj&show_icons=true&locale=en&layout=compact" alt="adroit-anuj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adroit-anuj&show_icons=true&locale=en" alt="adroit-anuj" /></p>
 
