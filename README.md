@@ -17,6 +17,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adroit-anuj&theme=blue-green)
 
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adroit-anuj&show_icons=true&locale=en" alt="adroit-anuj" /></p>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,5 +27,5 @@
 <a href="https://codeforces.com/profile/this_is_adroit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="this_is_adroit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/this_is_adroit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="this_is_adroit" height="30" width="40" /></a>
 </p>
-
+</div>
 <p align="left"> <img src="https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg" alt="adroit-anuj" /></p>
