@@ -2,9 +2,7 @@
 <h3 align="center">Student at IIT Guwahati</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> </p>
-
-![Static Badge](https://img.shields.io/badge/Adroitly%20Crafted)
-
+<p align="left"><img src="https://img.shields.io/badge/Adroitly-Crafted-blue" alt="adroit-anuj" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
