@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Dubey</h1>
 <h3 align="center">Student at IIT Guwahati</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> </p>
-<p align="left"><img src="https://img.shields.io/badge/Adroitly-Crafted-blue" alt="adroit-anuj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> 
+<img src="https://img.shields.io/badge/Adroitly-Crafted-blue" alt="adroit-anuj" /> </p>
 
 
 
