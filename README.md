@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" /> 
 <img src="https://img.shields.io/badge/Adroitly-Designed-blue" alt="adroit-anuj" /> </p>
 
-- 🔭 I’m currently working on **Z-Coder and Airline-Management** projects,which are related to Full Stack.
+- 🔭 I’m currently working on **Z-Coder and Airline-Management** projects, which are related to Full Stack.
 
 - 📫 How to reach me **d.anuj@iitg.ac.in & adroitanuj@gmail.com**
 
