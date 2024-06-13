@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **d.anuj@iitg.ac.in & adroitanuj@gmail.com**
 
-- Do check this out! **https://adroit-anuj.github.io/**
+- Do check this out! **https://adroit-anuj.github.io/Portfolio/**
 
 - ⚡ Fun fact **I give my brain a nice long spa day before making decisions.**
 
