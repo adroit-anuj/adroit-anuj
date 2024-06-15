@@ -10,7 +10,7 @@
 
 - Do check this out! **https://adroit-anuj.github.io/Portfolio/**
 
-- ⚡ **Lets play Table Tennis or Basketball?**
+- ⚡ **Lets play Table Tennis or Basketball someday?**
 
 
 <h3 align="left">Languages and Tools:</h3>
