@@ -10,7 +10,7 @@
 
 - Do check this out! **https://adroit-anuj.github.io/Portfolio/**
 
-- ⚡ Fun fact **I give my brain a nice long spa day before making decisions.**
+- ⚡ **Lets play Table Tennis or Basketball?**
 
 
 <h3 align="left">Languages and Tools:</h3>
