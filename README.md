@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **d.anuj@iitg.ac.in & adroitanuj@gmail.com**
 
-- Do check this out! **https://adroit-anuj.github.io/Portfolio/**
+- Portfolio:  **https://adroit-anuj.github.io/Portfolio/**
 
 - ⚡ **Lets play Table Tennis or Basketball someday?**
 
