@@ -9,13 +9,11 @@
   
 </p>
 
-- 🔭 I’m currently working on **Z-Coder and Airline-Management** projects, which are related to Full Stack.
+- 🔭 I’m currently working on **`Z-Coder`** and **`Airline-Management`** projects, which are related to Full Stack.
 
-- 📫 How to reach me **d.anuj@iitg.ac.in & adroitanuj@gmail.com**
+- 📫 How to reach me **`d.anuj@iitg.ac.in` & `adroitanuj@gmail.com`**
 
-- Portfolio: **https://adroit-anuj.github.io/Portfolio/**
-
-- ⚡ **Lets play Table Tennis or Basketball someday?**
+- Portfolio: <a href="https://adroit-anuj.github.io/Portfolio/">**`https://adroit-anuj.github.io/Portfolio/`**</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,3 +64,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
 </p>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
