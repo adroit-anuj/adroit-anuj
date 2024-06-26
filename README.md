@@ -1,13 +1,16 @@
 <h1 align="center">Hi There👋 I'm Anuj Dubey</h1>
 <h3 align="center">Student at IIT Guwahati</h3>
-  <img src="https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg" alt="adroit-anuj" />
-
-<p align="left">
+<br>
+<bre</bre>
+<p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" />
   <img src="https://img.shields.io/badge/Adroitly-Designed-blue" alt="adroit-anuj" />
   
 </p>
+  <p align="center"><img src="https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg" alt="adroit-anuj" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
+
 
 - 🔭 I’m currently working on **`Z-Coder`** and **`Airline-Management`** projects, which are related to Full Stack.
 
@@ -30,8 +33,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 </p>
 <br>
-<p align="left"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
-<p align="right"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
 <br>
 
 <table>
