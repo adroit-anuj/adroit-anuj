@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **`d.anuj@iitg.ac.in` & `adroitanuj@gmail.com`**
 
-- Portfolio: <a href="https://adroit-anuj.github.io/Portfolio/">**`https://adroit-anuj.github.io/Portfolio/`**</a>
+- 👨‍💻 All about me and my projects are available at <a href="https://adroit-anuj.github.io/Portfolio/">**`https://adroit-anuj.github.io/Portfolio/`**</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
