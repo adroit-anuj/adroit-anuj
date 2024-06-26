@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **`Z-Coder`** and **`Airline-Management`** projects, which are related to Full Stack.
 
-- 📫 How to reach me **`d.anuj@iitg.ac.in` & `adroitanuj@gmail.com`**
+- 📫 How to reach me <a href="mailto:d.anuj@iitg.ac.in">**`d.anuj@iitg.ac.in`</a> & <a href="mailto:adroitanuj@gmail.com">`adroitanuj@gmail.com`**</a>
 
 - 👨‍💻 All about me and my projects are available at <a href="https://adroit-anuj.github.io/Portfolio/">**`https://adroit-anuj.github.io/Portfolio/`**</a>
 
