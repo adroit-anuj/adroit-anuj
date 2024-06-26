@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Adroitly-Designed-blue" alt="adroit-anuj" />
   
 </p>
-  <p align="center"><img src="https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg" alt="adroit-anuj" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
 
 
@@ -65,5 +64,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
 </p>
+  <p align="center"><img src="https://forthebadge.com/images/badges/ohhh-i-get-what-this-is-now.svg" alt="adroit-anuj" /></p>
+
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
