@@ -5,7 +5,7 @@
 <p align="center">
   
   <img src="https://img.shields.io/badge/Adroitly-Designed-blue" alt="adroit-anuj" />
-  
+    <img src="https://komarev.com/ghpvc/?username=adroit-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="adroit-anuj" />
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></p>
 
